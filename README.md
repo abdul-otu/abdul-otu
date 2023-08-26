@@ -1,4 +1,6 @@
-### Hi there 👋
+Hello, I'm Abdul Shahid. A dedicated software engineering student with a strong interest in artificial intelligence and web development. Currently in my final year of studies, I'm eager to apply my skills and knowledge in a professional setting.
+
+I'm always open to connecting with fellow developers, potential collaborators, and industry professionals. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/abdul-shahid-otu/) or explore my [portfolio](#) to learn more.
 
 <!--
 **abdul-otu/abdul-otu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
